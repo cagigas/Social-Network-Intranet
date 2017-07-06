@@ -1,0 +1,38 @@
+<root nextid="8">
+  <entry id="1">
+    <Customer>Wella</Customer>
+    <CodecUsing>V9</CodecUsing>
+    <CodecAccepted>x</CodecAccepted>
+    <Migrated>x</Migrated>
+  </entry>
+  <entry id="2">
+    <Customer>Wintershall</Customer>
+    <CodecUsing>V9</CodecUsing>
+    <CodecAccepted>x</CodecAccepted>
+    <Migrated>x</Migrated>
+  </entry>
+  <entry id="4">
+    <Customer>WTV</Customer>
+    <CodecUsing>V9</CodecUsing>
+    <CodecAccepted>x</CodecAccepted>
+    <Migrated>x</Migrated>
+  </entry>
+  <entry id="5">
+    <Customer>Endesa</Customer>
+    <CodecUsing>V9</CodecUsing>
+    <CodecAccepted>x</CodecAccepted>
+    <Migrated>x</Migrated>
+  </entry>
+  <entry id="6">
+    <Customer>Deutsche Postbank</Customer>
+    <CodecUsing>V9</CodecUsing>
+    <CodecAccepted>x</CodecAccepted>
+    <Migrated>x</Migrated>
+  </entry>
+  <entry id="7">
+    <Customer>Credit Suisse</Customer>
+    <CodecUsing>V9</CodecUsing>
+    <CodecAccepted>x</CodecAccepted>
+    <Migrated>x</Migrated>
+  </entry>
+</root>

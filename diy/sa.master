@@ -1,0 +1,100 @@
+﻿<%@ Master Language="C#" %><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>WTV - Signal Acquisition</title>
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <% if (Request.QueryString["p"] == "tandbergs")
+       { %>
+    <meta http-equiv="Refresh" content="120" />
+    <% } %>
+    <link rel="stylesheet" type="text/css" href="css/system.css" />
+    
+    <script type="text/javascript" language="javascript">
+      requestInProgress = false;
+      wmtt = null;
+      
+      function ajxCall(callname, ip) 
+      {
+        ajaxRequest("tb_fireforget.aspx?cmd=" + callname + "&ip=" + ip + "&dt=" + new Date(), "ajxStatus");
+        document.getElementById("ajxStatus").style.display = "inline";
+        document.getElementById("ajxStatus").style.top = (y + 10) + "px";
+        document.getElementById("ajxStatus").style.left = (x + 20) + "px";
+      }
+      
+      function updateWMTT(e) {
+        try {
+            winWidth = (document.all) ? document.body.offsetWidth : window.innerWidth;
+	        x = (document.all) ? document.documentElement.scrollLeft+window.event.x + document.body.scrollLeft : e.pageX;
+	        y = (document.all) ? document.documentElement.scrollTop+window.event.y + document.body.scrollTop  : e.pageY;
+	        if (wmtt != null) {
+		        wmtt.style.left = (x + 20) + "px";
+		        wmtt.style.top 	= (y + 10) + "px";
+		        if (parseInt(wmtt.style.left) > winWidth-50) {
+		            wmtt.style.left = (parseInt(wmtt.style.left)-(parseInt(wmtt.style.left)-(winWidth-80))) + "px";
+		            wmtt.style.top 	= (y + 15) + "px";
+		        }
+	        }
+	        }
+	        catch(ex) { }
+        }
+        function showWMTT(text) {
+            try {
+                wmtt = document.getElementById("tooly");
+                if (text != "") {
+	                wmtt.innerHTML = text;
+	                wmtt.style.display = "block";
+	            }
+	        }
+	        catch(ex) { }
+        }
+        function hideWMTT() {
+            try {
+	        wmtt.style.display = "none";
+	        } catch(ex) { }
+        }
+        document.onmousemove = updateWMTT;
+    </script>
+    <script src="picts/ajax_11.js" type="text/javascript" language="javascript"></script>
+</head>
+<body style="margin: 0px 0px;">
+    <form id="form1" runat="server">
+        <table cellpadding="0" cellspacing="0" id="masterTable" align="center" class="coloredtable">
+            <tr>
+                <td valign="top">
+                    <table cellspacing="0" cellpadding="0">
+                        <tr>
+                            <td>
+                                <asp:ContentPlaceHolder ID="Header" runat="server" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="padding-left: 2px; padding-right: 2px">
+                                <asp:ContentPlaceHolder ID="Menu" runat="server" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="picts/empty.gif" width="100%" height="2" style="display: block" />
+                                <img src="picts/empty.gif" width="100%" height="1" style="background-color: #a9bcd6;
+                                    display: block" />
+                                <img src="picts/empty.gif" width="100%" height="2" style="display: block" />
+                                <img src="picts/empty.gif" width="100%" height="3" style="background-color: #dae9ee;
+                                    display: block" />
+                                <img src="picts/empty.gif" width="100%" height="15" style="display: block" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <asp:ContentPlaceHolder ID="Main" runat="server" />
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </form>
+    <div class="tooltip" id="tooly" style="z-index:100"></div>
+    <div class="tooltip" id="ajxStatus" style="z-index:101"></div>
+</body>
+</html>

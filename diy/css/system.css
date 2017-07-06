@@ -1,0 +1,318 @@
+body 
+{
+	font-family:Verdana,Helvetica,sans-serif;
+	font-size:11px;
+	margin:0px 0px 0px 0px;
+	background-color:#E6EAEE;
+}
+
+table 
+{
+	font-family:Verdana,Helvetica,sans-serif;
+	font-size:11px;
+	width:100%;
+	border:0px;
+	table-layout:auto;
+}
+
+table.whitetable, td.whitetable
+{
+	font-family:Verdana,Helvetica,sans-serif;
+	font-size:11px;
+	width:100%;
+	border:0px;
+	table-layout:auto;
+	background-color:#fff;
+}
+
+table.coloredtable, td.coloredtable
+{
+	font-family:Verdana,Helvetica,sans-serif;
+	font-size:11px;
+	width:100%;
+	table-layout:auto;
+	background-color:#fafcfc;
+	border:dotted 1px #a1a1a1;
+}
+
+.treeView
+{
+    width:auto;
+    text-align:left;
+    background-color:#fafcfc;
+	border:dotted 1px #a1a1a1;
+	padding:10px 0px 10px 0px;
+}
+
+.treeviewInvObj 
+{
+    color:#bababa;
+}
+
+.treeViewNode 
+{
+    white-space:nowrap;
+    width:100%;
+    padding:0px 5px 0px 5px;
+    color:#2a2a2a;
+}
+
+.treeView > table
+{
+    width:auto;
+    text-align:left;
+}
+
+.selNode 
+{
+	background-color:#ebedfd;
+	background-image:url(picts/treeviewarrow.gif);
+	background-position:right;
+	background-repeat:no-repeat;
+}
+
+.selNode a
+{
+	background-color:transparent;
+	background-image:url(../picts/empty.gif);
+}
+
+.selNodeHover 
+{
+    background-color:#ffeec2;
+    color:#000;
+}
+
+.selNodeHover:hover a
+{
+    text-decoration:none;
+}
+
+a 
+{
+	font-family:inherit;
+	font-size:inherit;
+	color:#585858;
+	text-decoration:none;
+}
+
+a:hover 
+{
+	text-decoration:underline;
+}
+
+img 
+{
+    border:0px;
+}
+
+hr 
+{
+    color:#dfdfdf;
+    width:100%;
+}
+
+#masterTable 
+{
+    background-color:#fff;
+    width:95%;
+    height:800px;
+}
+
+.maintitle 
+{
+    font-size:16px;
+    font-weight:bolder;
+    
+}
+.maintitle img
+{
+    background-color:#0063BE;
+    width:12px;
+    height:12px; 
+    border-right:5px solid #FFFFFF;    
+}
+.title 
+{
+    font-size:13px;
+    font-weight:bolder;
+    
+}
+.assetlink 
+{
+    background-color:#E6EAEE;
+    border:5px solid #E6EAEE;
+    color:#666666;
+    font-weight:bold;
+    display:block;
+    text-align:center;
+}
+
+.assetlink:hover 
+{
+    background-color:#dfdfdf;
+    border:5px solid #dfdfdf;
+    text-decoration:none;
+}
+
+.assetdescription 
+{
+    text-align:justify;
+}
+
+.logintable, .searchtable
+{
+	background-color:#E6EAEE;
+}
+
+.button
+{
+	background-color:#F5F5F5;
+	font-family:Verdana,Helvetica,sans-serif;
+	font-size:11px;
+	border:2px outset #F5F5F5;
+	padding: 1px 0px;
+}
+
+.inputtext 
+{
+	font-family:Verdana,Helvetica,sans-serif;
+	font-size:11px;
+	padding: 0px 2px;
+}
+
+.error 
+{
+    border:dotted 1px red;
+    padding: 3px;
+    float:left;
+}
+
+#ContextMenuCont 
+{
+    position:absolute;
+    border:solid 1px #a1a1a1;
+    background-color:#f6f6f6;
+    cursor:pointer;
+}
+
+#ContextMenuCont table
+{
+    width:auto;
+}
+
+#ContextMenuCont table tr:hover
+{
+    background-color:#ffeec2;
+}
+
+#ContextMenuCont table tr:hover td
+{
+    background-image:url(../picts/empty.gif);
+}
+
+.ContextMenuSideBar 
+{
+    width:24px;
+    height:30px;
+    padding:0px 0px;
+    background-image:url(../picts/contextMenuSidebar.gif);
+}
+
+.ContextMenuEntryHidden 
+{
+    height:0px;
+    display:none;
+    overflow:hidden;
+}
+
+#pmenu, #pmenu ul 
+{
+    padding:0px; 
+    margin:0px; 
+    list-style-type: none;
+}
+#pmenu 
+{
+    margin:0px 0px 0px 0px;   
+}
+
+#pmenu li 
+{
+    float:left;
+    position:relative;
+}
+#pmenu a, #pmenu a:visited 
+{
+    font-weight:bold;
+    display:block; 
+    width:130px; 
+    font-size:10px; 
+    color:#000; 
+    height:23px; 
+    line-height:22px; 
+    text-decoration:none; 
+    text-indent:5px; 
+    background-image:url(../picts/bg_menu.gif);
+    border:1px solid #708eb8; 
+    border-width:0px 1px 1px 0px;
+}
+#pmenu li:hover > a
+{
+    background-image:url(../picts/bg_menu_sel.gif);
+}
+
+#pmenu a img 
+{
+    background-color:#949494;
+    width:7px;
+    height:7px;
+    margin-right:10px;
+}
+  
+#pmenu li:hover > a img 
+{
+    background-color:#0063BE;
+    width:9px;
+    height:9px;
+    margin-right:8px;
+}
+
+#pmenu li ul 
+{
+    display:none;
+    border-top:solid 8px transparent;
+}
+#pmenu li:hover > ul 
+{
+    display:block; 
+    position:absolute; 
+    top:0px; 
+    left:101px; 
+}
+#pmenu > li:hover > ul 
+{
+    left:0;
+    top:22px;
+}
+
+#pmenu > li:hover > ul > li 
+{
+   border-top:solid 2px transparent;
+}
+
+.tooltip
+{
+    position: absolute;
+    display: none;
+    background-color: #FFFFE1;
+    padding: 2px 5px;
+    border: 1px solid #000000;
+    font-size: 10px;
+    font-family: Verdana,Helvetica,sans-serif;
+    z-index: 50;
+    width:300px;
+}
+
+
+

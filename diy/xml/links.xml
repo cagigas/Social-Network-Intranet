@@ -1,0 +1,37 @@
+<root nextid="9">
+  <entry id="1">
+    <Name>Wowza Monitor</Name>
+    <Url>http://sa.world-television.com/wowzamon/index.html</Url>
+    <Description>Monitor activity on wowza.world-television.com</Description>
+  </entry>
+  <entry id="2">
+    <Name>YouTube</Name>
+    <Url>http://www.youtube.com</Url>
+    <Description>Broadcast Yourself</Description>
+  </entry>
+  <entry id="4">
+    <Name>Akamai Interface</Name>
+    <Url>https://control.akamai.com/EdgeAuth/login.jsp</Url>
+    <Description>Admin</Description>
+  </entry>
+  <entry id="5">
+    <Name>BSN</Name>
+    <Url>http://www.bsn.org.uk/?action=transmissions</Url>
+    <Description>SAT Details</Description>
+  </entry>
+  <entry id="6">
+    <Name>BSN</Name>
+    <Url>http://gaia.world-television.com/wtv/bsn/</Url>
+    <Description>Test Links</Description>
+  </entry>
+  <entry id="7">
+    <Name>IS</Name>
+    <Url>http://is.unbn-win.unit.net:8050/injectionService/status</Url>
+    <Description>Start Encoders</Description>
+  </entry>
+  <entry id="8">
+    <Name>Lyngsat</Name>
+    <Url>http://www.lyngsat.com/</Url>
+    <Description>Satellites</Description>
+  </entry>
+</root>

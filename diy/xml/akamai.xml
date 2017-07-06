@@ -1,0 +1,566 @@
+<root nextid="137">
+  <realMediaView>
+    <encoder id="2">
+      <name>ENC101</name>
+      <url1>rtsp://a783.l2049736782.c20497.g.lr.akamaistream.net/live/D/783/20497/v0001/reflector:36782</url1>
+      <url2>rtsp://a686.l2049742685.c20497.g.lr.akamaistream.net/live/D/686/20497/v0001/reflector:42685</url2>
+      <url3>rtsp://a1146.l2049731145.c20497.g.lr.akamaistream.net/live/D/1146/20497/v0001/reflector:31145</url3>
+      <url4>rtsp://a1881.l2049745880.c20497.g.lr.akamaistream.net/live/D/1881/20497/v0001/reflector:45880</url4>
+    </encoder>
+    <encoder id="3">
+      <name>ENC102</name>
+      <url1>rtsp://a1880.l2049745879.c20497.g.lr.akamaistream.net/live/D/1880/20497/v0001/reflector:45879</url1>
+      <url2>rtsp://a241.l2049752240.c20497.g.lr.akamaistream.net/live/D/241/20497/v0001/reflector:52240</url2>
+      <url3>rtsp://a1172.l2049757171.c20497.g.lr.akamaistream.net/live/D/1172/20497/v0001/reflector:57171</url3>
+      <url4>rtsp://a1188.l2049757187.c20497.g.lr.akamaistream.net/live/D/1188/20497/v0001/reflector:57187</url4>
+    </encoder>
+    <encoder id="4">
+      <name>ENC103</name>
+      <url1>rtsp://a116.l2049746115.c20497.g.lr.akamaistream.net/live/D/116/20497/v0001/reflector:46115</url1>
+      <url2>rtsp://a1802.l2049749801.c20497.g.lr.akamaistream.net/live/D/1802/20497/v0001/reflector:49801</url2>
+      <url3>rtsp://a682.l2049754681.c20497.g.lr.akamaistream.net/live/D/682/20497/v0001/reflector:54681</url3>
+      <url4>rtsp://a1889.l2049757888.c20497.g.lr.akamaistream.net/live/D/1889/20497/v0001/reflector:57888</url4>
+    </encoder>
+    <encoder id="6">
+      <name>ENC104</name>
+      <url1>rtsp://a1875.l2049755874.c20497.g.lr.akamaistream.net/live/D/1875/20497/v0001/reflector:55874</url1>
+      <url2>rtsp://a740.l2049734739.c20497.g.lr.akamaistream.net/live/D/740/20497/v0001/reflector:34739</url2>
+      <url3>rtsp://a1450.l2049751449.c20497.g.lr.akamaistream.net/live/D/1450/20497/v0001/reflector:51449</url3>
+      <url4>rtsp://a42.l2049720041.c20497.g.lr.akamaistream.net/live/D/42/20497/v0001/reflector:20041</url4>
+    </encoder>
+    <encoder id="7">
+      <name>ENC105</name>
+      <url1>rtsp://a1099.l2049737098.c20497.g.lr.akamaistream.net/live/D/1099/20497/v0001/reflector:37098</url1>
+      <url2>rtsp://a1744.l2049751743.c20497.g.lr.akamaistream.net/live/D/1744/20497/v0001/reflector:51743</url2>
+      <url3>rtsp://a1550.l2049747549.c20497.g.lr.akamaistream.net/live/D/1550/20497/v0001/reflector:47549</url3>
+      <url4>rtsp://a1180.l2049753179.c20497.g.lr.akamaistream.net/live/D/1180/20497/v0001/reflector:53179</url4>
+    </encoder>
+    <encoder id="8">
+      <name>ENC106</name>
+      <url1>rtsp://a480.l2049740479.c20497.g.lr.akamaistream.net/live/D/480/20497/v0001/reflector:40479</url1>
+      <url2>rtsp://a870.l2049740869.c20497.g.lr.akamaistream.net/live/D/870/20497/v0001/reflector:40869</url2>
+      <url3>rtsp://a32.l2049730031.c20497.g.lr.akamaistream.net/live/D/32/20497/v0001/reflector:30031</url3>
+      <url4>rtsp://a254.l2049736253.c20497.g.lr.akamaistream.net/live/D/254/20497/v0001/reflector:36253</url4>
+    </encoder>
+    <encoder id="9">
+      <name>ENC107</name>
+      <url1>rtsp://a313.l2049752312.c20497.g.lr.akamaistream.net/live/D/313/20497/v0001/reflector:52312</url1>
+      <url2>rtsp://a1768.l2049753767.c20497.g.lr.akamaistream.net/live/D/1768/20497/v0001/reflector:53767</url2>
+      <url3>rtsp://a189.l2049756188.c20497.g.lr.akamaistream.net/live/D/189/20497/v0001/reflector:56188</url3>
+      <url4>rtsp://a1996.l2049745995.c20497.g.lr.akamaistream.net/live/D/1996/20497/v0001/reflector:45995</url4>
+    </encoder>
+    <encoder id="10">
+      <name>ENC108</name>
+      <url1>rtsp://a1381.l2049721380.c20497.g.lr.akamaistream.net/live/D/1381/20497/v0001/reflector:21380</url1>
+      <url2>rtsp://a1379.l2049741378.c20497.g.lr.akamaistream.net/live/D/1379/20497/v0001/reflector:41378</url2>
+      <url3>rtsp://a1316.l2049721315.c20497.g.lr.akamaistream.net/live/D/1316/20497/v0001/reflector:21315</url3>
+      <url4>rtsp://a1863.l2049745862.c20497.g.lr.akamaistream.net/live/D/1863/20497/v0001/reflector:45862</url4>
+    </encoder>
+    <encoder id="18">
+      <name>ENC500</name>
+      <url1>rtsp://a80.l2049734079.c20497.g.lr.akamaistream.net/live/D/80/20497/v0001/reflector:34079</url1>
+      <url2>rtsp://a361.l2049736360.c20497.g.lr.akamaistream.net/live/D/361/20497/v0001/reflector:36360</url2>
+      <url3>rtsp://a1878.l2049745877.c20497.g.lr.akamaistream.net/live/D/1878/20497/v0001/reflector:45877</url3>
+      <url4>rtsp://a1092.l2049735091.c20497.g.lr.akamaistream.net/live/D/1092/20497/v0001/reflector:35091</url4>
+    </encoder>
+    <encoder id="19">
+      <name>ENC501</name>
+      <url1>rtsp://a216.l2049738215.c20497.g.lr.akamaistream.net/live/D/216/20497/v0001/reflector:38215</url1>
+      <url2>rtsp://a408.l2049758407.c20497.g.lr.akamaistream.net/live/D/408/20497/v0001/reflector:58407</url2>
+      <url3>rtsp://a463.l2049732462.c20497.g.lr.akamaistream.net/live/D/463/20497/v0001/reflector:32462</url3>
+      <url4>rtsp://a1708.l2049733707.c20497.g.lr.akamaistream.net/live/D/1708/20497/v0001/reflector:33707</url4>
+    </encoder>
+    <encoder id="20">
+      <name>ENC502</name>
+      <url1>rtsp://a1285.l2049735284.c20497.g.lr.akamaistream.net/live/D/1285/20497/v0001/reflector:35284</url1>
+      <url2>rtsp://a1914.l2049745913.c20497.g.lr.akamaistream.net/live/D/1914/20497/v0001/reflector:45913</url2>
+      <url3>rtsp://a1920.l2049745919.c20497.g.lr.akamaistream.net/live/D/1920/20497/v0001/reflector:45919</url3>
+      <url4>rtsp://a1922.l2049745921.c20497.g.lr.akamaistream.net/live/D/1922/20497/v0001/reflector:45921</url4>
+    </encoder>
+    <encoder id="21">
+      <name>ENC503</name>
+      <url1>rtsp://a1147.l2049739146.c20497.g.lr.akamaistream.net/live/D/1147/20497/v0001/reflector:39146</url1>
+      <url2>rtsp://a441.l2049744440.c20497.g.lr.akamaistream.net/live/D/441/20497/v0001/reflector:44440</url2>
+      <url3>rtsp://a1551.l2049753550.c20497.g.lr.akamaistream.net/live/D/1551/20497/v0001/reflector:53550</url3>
+      <url4>rtsp://a637.l2049756636.c20497.g.lr.akamaistream.net/live/D/637/20497/v0001/reflector:56636</url4>
+    </encoder>
+    <encoder id="22">
+      <name>ENC504</name>
+      <url1>rtsp://a1362.l2049751361.c20497.g.lr.akamaistream.net/live/D/1362/20497/v0001/reflector:51361</url1>
+      <url2>rtsp://a33.l2049758032.c20497.g.lr.akamaistream.net/live/D/33/20497/v0001/reflector:58032</url2>
+      <url3>rtsp://a2.l2049746001.c20497.g.lr.akamaistream.net/live/D/2/20497/v0001/reflector:46001</url3>
+      <url4>rtsp://a4.l2049746003.c20497.g.lr.akamaistream.net/live/D/4/20497/v0001/reflector:46003</url4>
+    </encoder>
+    <encoder id="23">
+      <name>ENC505</name>
+      <url1>rtsp://a10.l2049746009.c20497.g.lr.akamaistream.net/live/D/10/20497/v0001/reflector:46009</url1>
+      <url2>rtsp://a30.l2049746029.c20497.g.lr.akamaistream.net/live/D/30/20497/v0001/reflector:46029</url2>
+      <url3>rtsp://a32.l2049746031.c20497.g.lr.akamaistream.net/live/D/32/20497/v0001/reflector:46031</url3>
+      <url4>rtsp://a12.l2049746011.c20497.g.lr.akamaistream.net/live/D/12/20497/v0001/reflector:46011</url4>
+    </encoder>
+    <encoder id="24">
+      <name>ENC510</name>
+      <url1>rtsp://a24.l2049730023.c20497.g.lr.akamaistream.net/live/D/24/20497/v0001/reflector:30023</url1>
+      <url2>rtsp://a1441.l2049733440.c20497.g.lr.akamaistream.net/live/D/1441/20497/v0001/reflector:33440</url2>
+      <url3>rtsp://a1088.l2049733087.c20497.g.lr.akamaistream.net/live/D/1088/20497/v0001/reflector:33087</url3>
+      <url4>rtsp://a1344.l2049733343.c20497.g.lr.akamaistream.net/live/D/1344/20497/v0001/reflector:33343</url4>
+    </encoder>
+    <encoder id="25">
+      <name>ENC400</name>
+      <url1>rtsp://a2000.l2049745999.c20497.g.lr.akamaistream.net/live/D/2000/20497/v0001/reflector:45999</url1>
+      <url2>rtsp://a999.l2049754998.c20497.g.lr.akamaistream.net/live/D/999/20497/v0001/reflector:54998</url2>
+      <url3>rtsp://a321.l2049748320.c20497.g.lr.akamaistream.net/live/D/321/20497/v0001/reflector:48320</url3>
+      <url4>rtsp://a993.l2049742992.c20497.g.lr.akamaistream.net/live/D/993/20497/v0001/reflector:42992</url4>
+    </encoder>
+    <encoder id="26">
+      <name>ENC401</name>
+      <url1>rtsp://a928.l2049742927.c20497.g.lr.akamaistream.net/live/D/928/20497/v0001/reflector:42927</url1>
+      <url2>rtsp://a659.l2049738658.c20497.g.lr.akamaistream.net/live/D/659/20497/v0001/reflector:38658</url2>
+      <url3>rtsp://a529.l2049744528.c20497.g.lr.akamaistream.net/live/D/529/20497/v0001/reflector:44528</url3>
+      <url4>rtsp://a977.l2049732976.c20497.g.lr.akamaistream.net/live/D/977/20497/v0001/reflector:32976</url4>
+    </encoder>
+    <encoder id="27">
+      <name>ENC402</name>
+      <url1>rtsp://a444.l2049746443.c20497.g.lr.akamaistream.net/live/D/444/20497/v0001/reflector:46443</url1>
+      <url2>rtsp://a1122.l2049737121.c20497.g.lr.akamaistream.net/live/D/1122/20497/v0001/reflector:37121</url2>
+      <url3>rtsp://a1042.l2049755041.c20497.g.lr.akamaistream.net/live/D/1042/20497/v0001/reflector:55041</url3>
+      <url4>rtsp://a1136.l2049757135.c20497.g.lr.akamaistream.net/live/D/1136/20497/v0001/reflector:57135</url4>
+    </encoder>
+    <encoder id="28">
+      <name>ENC403</name>
+      <url1>rtsp://a1491.l2049747490.c20497.g.lr.akamaistream.net/live/D/1491/20497/v0001/reflector:47490</url1>
+      <url2>rtsp://a710.l2049746709.c20497.g.lr.akamaistream.net/live/D/710/20497/v0001/reflector:46709</url2>
+      <url3>rtsp://a1274.l2049747273.c20497.g.lr.akamaistream.net/live/D/1274/20497/v0001/reflector:47273</url3>
+      <url4>rtsp://a1404.l2049731403.c20497.g.lr.akamaistream.net/live/D/1404/20497/v0001/reflector:31403</url4>
+    </encoder>
+    <encoder id="29">
+      <name>ENC404</name>
+      <url1>rtsp://a1595.l2049735594.c20497.g.lr.akamaistream.net/live/D/1595/20497/v0001/reflector:35594</url1>
+      <url2>rtsp://a1067.l2049739066.c20497.g.lr.akamaistream.net/live/D/1067/20497/v0001/reflector:39066</url2>
+      <url3>rtsp://a1337.l2049747336.c20497.g.lr.akamaistream.net/live/D/1337/20497/v0001/reflector:47336</url3>
+      <url4>rtsp://a409.l2049742408.c20497.g.lr.akamaistream.net/live/D/409/20497/v0001/reflector:42408</url4>
+    </encoder>
+    <encoder id="30">
+      <name>ENC405</name>
+      <url1>rtsp://a654.l2049746653.c20497.g.lr.akamaistream.net/live/D/654/20497/v0001/reflector:46653</url1>
+      <url2>rtsp://a1853.l2049747852.c20497.g.lr.akamaistream.net/live/D/1853/20497/v0001/reflector:47852</url2>
+      <url3>rtsp://a1855.l2049747854.c20497.g.lr.akamaistream.net/live/D/1855/20497/v0001/reflector:47854</url3>
+      <url4>rtsp://a774.l2049720773.c20497.g.lr.akamaistream.net/live/D/774/20497/v0001/reflector:20773</url4>
+    </encoder>
+    <encoder id="31">
+      <name>ENC301</name>
+      <url1>rtsp://a165.l2049758164.c20497.g.lr.akamaistream.net/live/D/165/20497/v0001/reflector:58164</url1>
+      <url2>rtsp://a1985.l2049739984.c20497.g.lr.akamaistream.net/live/D/1985/20497/v0001/reflector:39984</url2>
+      <url3>rtsp://a257.l2049758256.c20497.g.lr.akamaistream.net/live/D/257/20497/v0001/reflector:58256</url3>
+      <url4>rtsp://a1473.l2049759472.c20497.g.lr.akamaistream.net/live/D/1473/20497/v0001/reflector:59472</url4>
+    </encoder>
+    <encoder id="33">
+      <name>ENC302</name>
+      <url1>rtsp://a1722.l2049723721.c20497.g.lr.akamaistream.net/live/D/1722/20497/v0001/reflector:23721</url1>
+      <url2>rtsp://a1569.l2049751568.c20497.g.lr.akamaistream.net/live/D/1569/20497/v0001/reflector:51568</url2>
+      <url3>rtsp://a1647.l2049741646.c20497.g.lr.akamaistream.net/live/D/1647/20497/v0001/reflector:41646</url3>
+      <url4>rtsp://a1649.l2049741648.c20497.g.lr.akamaistream.net/live/D/1649/20497/v0001/reflector:41648</url4>
+    </encoder>
+    <encoder id="34">
+      <name>ENC303</name>
+      <url1>rtsp://a796.l2049742795.c20497.g.lr.akamaistream.net/live/D/796/20497/v0001/reflector:42795</url1>
+      <url2>rtsp://a1011.l2049747010.c20497.g.lr.akamaistream.net/live/D/1011/20497/v0001/reflector:47010</url2>
+      <url3>rtsp://a1622.l2049753621.c20497.g.lr.akamaistream.net/live/D/1622/20497/v0001/reflector:53621</url3>
+      <url4>rtsp://a69.l2049754068.c20497.g.lr.akamaistream.net/live/D/69/20497/v0001/reflector:54068</url4>
+    </encoder>
+    <encoder id="35">
+      <name>ENC304</name>
+      <url1>rtsp://a828.l2049724827.c20497.g.lr.akamaistream.net/live/D/828/20497/v0001/reflector:24827</url1>
+      <url2>rtsp://a699.l2049756698.c20497.g.lr.akamaistream.net/live/D/699/20497/v0001/reflector:56698</url2>
+      <url3>rtsp://a1614.l2049723613.c20497.g.lr.akamaistream.net/live/D/1614/20497/v0001/reflector:23613</url3>
+      <url4>rtsp://a650.l2049730649.c20497.g.lr.akamaistream.net/live/D/650/20497/v0001/reflector:30649</url4>
+    </encoder>
+    <encoder id="36">
+      <name>ENC305</name>
+      <url1>rtsp://a1007.l2049723006.c20497.g.lr.akamaistream.net/live/D/1007/20497/v0001/reflector:23006</url1>
+      <url2>rtsp://a1365.l2049733364.c20497.g.lr.akamaistream.net/live/D/1365/20497/v0001/reflector:33364</url2>
+      <url3>rtsp://a863.l2049740862.c20497.g.lr.akamaistream.net/live/D/863/20497/v0001/reflector:40862</url3>
+      <url4>rtsp://a1202.l2049745201.c20497.g.lr.akamaistream.net/live/D/1202/20497/v0001/reflector:45201</url4>
+    </encoder>
+  </realMediaView>
+  <windowsMediaView>
+    <encoder id="83">
+      <name>ENC101 - Live (10.2014)</name>
+      <url1>mms://a909.l2049654908.c20496.g.lm.akamaistream.net/D/909/20496/v0001/reflector:54908</url1>
+      <url2>mms://a1744.l2049653743.c20496.g.lm.akamaistream.net/D/1744/20496/v0001/reflector:53743</url2>
+      <url3>mms://a336.l2049652335.c20496.g.lm.akamaistream.net/D/336/20496/v0001/reflector:52335</url3>
+      <url4>mms://a1738.l2049649737.c20496.g.lm.akamaistream.net/D/1738/20496/v0001/reflector:49737</url4>
+    </encoder>
+    <encoder id="84">
+      <name>ENC101 - Backup (10.2014)</name>
+      <url1>mms://a597.l2049656596.c20496.g.lm.akamaistream.net/D/597/20496/v0001/reflector:56596</url1>
+      <url2>mms://a1655.l2049659654.c20496.g.lm.akamaistream.net/D/1655/20496/v0001/reflector:59654</url2>
+      <url3>mms://a41.l2049656040.c20496.g.lm.akamaistream.net/D/41/20496/v0001/reflector:56040</url3>
+      <url4>mms://a1934.l2049659933.c20496.g.lm.akamaistream.net/D/1934/20496/v0001/reflector:59933</url4>
+    </encoder>
+    <encoder id="85">
+      <name>ENC102 - Live (10.2014)</name>
+      <url1>mms://a1218.l2049655217.c20496.g.lm.akamaistream.net/D/1218/20496/v0001/reflector:55217</url1>
+      <url2>mms://a593.l2049656592.c20496.g.lm.akamaistream.net/D/593/20496/v0001/reflector:56592</url2>
+      <url3>mms://a904.l2049656903.c20496.g.lm.akamaistream.net/D/904/20496/v0001/reflector:56903</url3>
+      <url4>mms://a1875.l2049649874.c20496.g.lm.akamaistream.net/D/1875/20496/v0001/reflector:49874</url4>
+    </encoder>
+    <encoder id="86">
+      <name>ENC102 - Backup (10.2014)</name>
+      <url1>mms://a197.l2049656196.c20496.g.lm.akamaistream.net/D/197/20496/v0001/reflector:56196</url1>
+      <url2>mms://a776.l2049656775.c20496.g.lm.akamaistream.net/D/776/20496/v0001/reflector:56775</url2>
+      <url3>mms://a1191.l2049651190.c20496.g.lm.akamaistream.net/D/1191/20496/v0001/reflector:51190</url3>
+      <url4>mms://a1521.l2049655520.c20496.g.lm.akamaistream.net/D/1521/20496/v0001/reflector:55520</url4>
+    </encoder>
+    <encoder id="87">
+      <name>ENC103 - Live (10.2014)</name>
+      <url1>mms://a572.l2049650571.c20496.g.lm.akamaistream.net/D/572/20496/v0001/reflector:50571</url1>
+      <url2>mms://a1473.l2049649472.c20496.g.lm.akamaistream.net/D/1473/20496/v0001/reflector:49472</url2>
+      <url3>mms://a1366.l2049657365.c20496.g.lm.akamaistream.net/D/1366/20496/v0001/reflector:57365</url3>
+      <url4>mms://a360.l2049656359.c20496.g.lm.akamaistream.net/D/360/20496/v0001/reflector:56359</url4>
+    </encoder>
+    <encoder id="88">
+      <name>ENC103 - Backup (10.2014)</name>
+      <url1>mms://a285.l2049656284.c20496.g.lm.akamaistream.net/D/285/20496/v0001/reflector:56284</url1>
+      <url2>mms://a1778.l2049649777.c20496.g.lm.akamaistream.net/D/1778/20496/v0001/reflector:49777</url2>
+      <url3>mms://a1502.l2049657501.c20496.g.lm.akamaistream.net/D/1502/20496/v0001/reflector:57501</url3>
+      <url4>mms://a1010.l2049655009.c20496.g.lm.akamaistream.net/D/1010/20496/v0001/reflector:55009</url4>
+    </encoder>
+    <encoder id="89">
+      <name>ENC104 - Live (10.2014)</name>
+      <url1>mms://a248.l2049656247.c20496.g.lm.akamaistream.net/D/248/20496/v0001/reflector:56247</url1>
+      <url2>mms://a1704.l2049655703.c20496.g.lm.akamaistream.net/D/1704/20496/v0001/reflector:55703</url2>
+      <url3>mms://a439.l2049658438.c20496.g.lm.akamaistream.net/D/439/20496/v0001/reflector:58438</url3>
+      <url4>mms://a1118.l2049657117.c20496.g.lm.akamaistream.net/D/1118/20496/v0001/reflector:57117</url4>
+    </encoder>
+    <encoder id="90">
+      <name>ENC104 - Backup (10.2014)</name>
+      <url1>mms://a1122.l2049657121.c20496.g.lm.akamaistream.net/D/1122/20496/v0001/reflector:57121</url1>
+      <url2>mms://a1403.l2049657402.c20496.g.lm.akamaistream.net/D/1403/20496/v0001/reflector:57402</url2>
+      <url3>mms://a575.l2049650574.c20496.g.lm.akamaistream.net/D/575/20496/v0001/reflector:50574</url3>
+      <url4>mms://a1636.l2049649635.c20496.g.lm.akamaistream.net/D/1636/20496/v0001/reflector:49635</url4>
+    </encoder>
+    <encoder id="91">
+      <name>ENC105 - Live (10.2014)</name>
+      <url1>mms://a1646.l2049651645.c20496.g.lm.akamaistream.net/D/1646/20496/v0001/reflector:51645</url1>
+      <url2>mms://a1236.l2049651235.c20496.g.lm.akamaistream.net/D/1236/20496/v0001/reflector:51235</url2>
+      <url3>mms://a1578.l2049651577.c20496.g.lm.akamaistream.net/D/1578/20496/v0001/reflector:51577</url3>
+      <url4>mms://a1467.l2049651466.c20496.g.lm.akamaistream.net/D/1467/20496/v0001/reflector:51466</url4>
+    </encoder>
+    <encoder id="92">
+      <name>ENC105 - Backup (10.2014)</name>
+      <url1>mms://a1433.l2049651432.c20496.g.lm.akamaistream.net/D/1433/20496/v0001/reflector:51432</url1>
+      <url2>mms://a943.l2049650942.c20496.g.lm.akamaistream.net/D/943/20496/v0001/reflector:50942</url2>
+      <url3>mms://a23.l2049652022.c20496.g.lm.akamaistream.net/D/23/20496/v0001/reflector:52022</url3>
+      <url4>mms://a1239.l2049651238.c20496.g.lm.akamaistream.net/D/1239/20496/v0001/reflector:51238</url4>
+    </encoder>
+    <encoder id="93">
+      <name>ENC106 - Live (10.2014)</name>
+      <url1>mms://a1788.l2049651787.c20496.g.lm.akamaistream.net/D/1788/20496/v0001/reflector:51787</url1>
+      <url2>mms://a1066.l2049651065.c20496.g.lm.akamaistream.net/D/1066/20496/v0001/reflector:51065</url2>
+      <url3>mms://a1469.l2049649468.c20496.g.lm.akamaistream.net/D/1469/20496/v0001/reflector:49468</url3>
+      <url4>mms://a1298.l2049653297.c20496.g.lm.akamaistream.net/D/1298/20496/v0001/reflector:53297</url4>
+    </encoder>
+    <encoder id="94">
+      <name>ENC106 - Backup (10.2014)</name>
+      <url1>mms://a12.l2049650011.c20496.g.lm.akamaistream.net/D/12/20496/v0001/reflector:50011</url1>
+      <url2>mms://a1279.l2049651278.c20496.g.lm.akamaistream.net/D/1279/20496/v0001/reflector:51278</url2>
+      <url3>mms://a131.l2049650130.c20496.g.lm.akamaistream.net/D/131/20496/v0001/reflector:50130</url3>
+      <url4>mms://a1971.l2049653970.c20496.g.lm.akamaistream.net/D/1971/20496/v0001/reflector:53970</url4>
+    </encoder>
+    <encoder id="95">
+      <name>ENC107 - Live (10.2014)</name>
+      <url1>mms://a901.l2049650900.c20496.g.lm.akamaistream.net/D/901/20496/v0001/reflector:50900</url1>
+      <url2>mms://a49.l2049652048.c20496.g.lm.akamaistream.net/D/49/20496/v0001/reflector:52048</url2>
+      <url3>mms://a1482.l2049649481.c20496.g.lm.akamaistream.net/D/1482/20496/v0001/reflector:49481</url3>
+      <url4>mms://a902.l2049650901.c20496.g.lm.akamaistream.net/D/902/20496/v0001/reflector:50901</url4>
+    </encoder>
+    <encoder id="96">
+      <name>ENC107 - Backup (10.2014)</name>
+      <url1>mms://a409.l2049650408.c20496.g.lm.akamaistream.net/D/409/20496/v0001/reflector:50408</url1>
+      <url2>mms://a279.l2049650278.c20496.g.lm.akamaistream.net/D/279/20496/v0001/reflector:50278</url2>
+      <url3>mms://a261.l2049650260.c20496.g.lm.akamaistream.net/D/261/20496/v0001/reflector:50260</url3>
+      <url4>mms://a827.l2049650826.c20496.g.lm.akamaistream.net/D/827/20496/v0001/reflector:50826</url4>
+    </encoder>
+    <encoder id="97">
+      <name>ENC108 - Live (10.2014)</name>
+      <url1>mms://a1542.l2049657541.c20496.g.lm.akamaistream.net/D/1542/20496/v0001/reflector:57541</url1>
+      <url2>mms://a1226.l2049657225.c20496.g.lm.akamaistream.net/D/1226/20496/v0001/reflector:57225</url2>
+      <url3>mms://a73.l2049650072.c20496.g.lm.akamaistream.net/D/73/20496/v0001/reflector:50072</url3>
+      <url4>mms://a585.l2049656584.c20496.g.lm.akamaistream.net/D/585/20496/v0001/reflector:56584</url4>
+    </encoder>
+    <encoder id="98">
+      <name>ENC108 - Backup (10.2014)</name>
+      <url1>mms://a1743.l2049655742.c20496.g.lm.akamaistream.net/D/1743/20496/v0001/reflector:55742</url1>
+      <url2>mms://a1414.l2049659413.c20496.g.lm.akamaistream.net/D/1414/20496/v0001/reflector:59413</url2>
+      <url3>mms://a1090.l2049655089.c20496.g.lm.akamaistream.net/D/1090/20496/v0001/reflector:55089</url3>
+      <url4>mms://a1651.l2049655650.c20496.g.lm.akamaistream.net/D/1651/20496/v0001/reflector:55650</url4>
+    </encoder>
+    <encoder id="99">
+      <name>ENC301 - Live</name>
+      <url1>mms://a690.l2049652689.c20496.g.lm.akamaistream.net/D/690/20496/v0001/reflector:52689</url1>
+      <url2>mms://a1400.l2049651399.c20496.g.lm.akamaistream.net/D/1400/20496/v0001/reflector:51399</url2>
+      <url3>mms://a152.l2049656151.c20496.g.lm.akamaistream.net/D/152/20496/v0001/reflector:56151</url3>
+      <url4>mms://a525.l2049652524.c20496.g.lm.akamaistream.net/D/525/20496/v0001/reflector:52524</url4>
+    </encoder>
+    <encoder id="100">
+      <name>ENC301 - Backup</name>
+      <url1>mms://a730.l2049652729.c20496.g.lm.akamaistream.net/D/730/20496/v0001/reflector:52729</url1>
+      <url2>mms://a1517.l2049651516.c20496.g.lm.akamaistream.net/D/1517/20496/v0001/reflector:51516</url2>
+      <url3>mms://a1680.l2049655679.c20496.g.lm.akamaistream.net/D/1680/20496/v0001/reflector:55679</url3>
+      <url4>mms://a1598.l2049655597.c20496.g.lm.akamaistream.net/D/1598/20496/v0001/reflector:55597</url4>
+    </encoder>
+    <encoder id="101">
+      <name>ENC302 - Live</name>
+      <url1>mms://a1931.l2049651930.c20496.g.lm.akamaistream.net/D/1931/20496/v0001/reflector:51930</url1>
+      <url2>mms://a1862.l2049659861.c20496.g.lm.akamaistream.net/D/1862/20496/v0001/reflector:59861</url2>
+      <url3>mms://a930.l2049658929.c20496.g.lm.akamaistream.net/D/930/20496/v0001/reflector:58929</url3>
+      <url4>mms://a30.l2049658029.c20496.g.lm.akamaistream.net/D/30/20496/v0001/reflector:58029</url4>
+    </encoder>
+    <encoder id="102">
+      <name>ENC302 - Backup</name>
+      <url1>mms://a284.l2049656283.c20496.g.lm.akamaistream.net/D/284/20496/v0001/reflector:56283</url1>
+      <url2>mms://a1078.l2049657077.c20496.g.lm.akamaistream.net/D/1078/20496/v0001/reflector:57077</url2>
+      <url3>mms://a1586.l2049659585.c20496.g.lm.akamaistream.net/D/1586/20496/v0001/reflector:59585</url3>
+      <url4>mms://a136.l2049650135.c20496.g.lm.akamaistream.net/D/136/20496/v0001/reflector:50135</url4>
+    </encoder>
+    <encoder id="103">
+      <name>ENC303 - Live (11.2014)</name>
+      <url1>mms://a314.l2049658313.c20496.g.lm.akamaistream.net/D/314/20496/v0001/reflector:58313</url1>
+      <url2>mms://a1171.l2049659170.c20496.g.lm.akamaistream.net/D/1171/20496/v0001/reflector:59170</url2>
+      <url3>mms://a1350.l2049659349.c20496.g.lm.akamaistream.net/D/1350/20496/v0001/reflector:59349</url3>
+      <url4>mms://a309.l2049650308.c20496.g.lm.akamaistream.net/D/309/20496/v0001/reflector:50308</url4>
+    </encoder>
+    <encoder id="104">
+      <name>ENC303 - Backup (11.2014)</name>
+      <url1>mms://a1201.l2049649200.c20496.g.lm.akamaistream.net/D/1201/20496/v0001/reflector:49200</url1>
+      <url2>mms://a426.l2049658425.c20496.g.lm.akamaistream.net/D/426/20496/v0001/reflector:58425</url2>
+      <url3>mms://a1620.l2049653619.c20496.g.lm.akamaistream.net/D/1620/20496/v0001/reflector:53619</url3>
+      <url4>mms://a1834.l2049649833.c20496.g.lm.akamaistream.net/D/1834/20496/v0001/reflector:49833</url4>
+    </encoder>
+    <encoder id="105">
+      <name>ENC304 - Live (11.2014)</name>
+      <url1>mms://a1554.l2049657553.c20496.g.lm.akamaistream.net/D/1554/20496/v0001/reflector:57553</url1>
+      <url2>mms://a833.l2049650832.c20496.g.lm.akamaistream.net/D/833/20496/v0001/reflector:50832</url2>
+      <url3>mms://a1008.l2049651007.c20496.g.lm.akamaistream.net/D/1008/20496/v0001/reflector:51007</url3>
+      <url4>mms://a1454.l2049653453.c20496.g.lm.akamaistream.net/D/1454/20496/v0001/reflector:53453</url4>
+    </encoder>
+    <encoder id="106">
+      <name>ENC304 - Backup (11.2014)</name>
+      <url1>mms://a1974.l2049651973.c20496.g.lm.akamaistream.net/D/1974/20496/v0001/reflector:51973</url1>
+      <url2>mms://a923.l2049654922.c20496.g.lm.akamaistream.net/D/923/20496/v0001/reflector:54922</url2>
+      <url3>mms://a1488.l2049649487.c20496.g.lm.akamaistream.net/D/1488/20496/v0001/reflector:49487</url3>
+      <url4>mms://a214.l2049656213.c20496.g.lm.akamaistream.net/D/214/20496/v0001/reflector:56213</url4>
+    </encoder>
+    <encoder id="107">
+      <name>ENC305 - Live (11.2014)</name>
+      <url1>mms://a20.l2049658019.c20496.g.lm.akamaistream.net/D/20/20496/v0001/reflector:58019</url1>
+      <url2>mms://a1497.l2049657496.c20496.g.lm.akamaistream.net/D/1497/20496/v0001/reflector:57496</url2>
+      <url3>mms://a59.l2049658058.c20496.g.lm.akamaistream.net/D/59/20496/v0001/reflector:58058</url3>
+      <url4>mms://a652.l2049658651.c20496.g.lm.akamaistream.net/D/652/20496/v0001/reflector:58651</url4>
+    </encoder>
+    <encoder id="108">
+      <name>ENC305 - Backup (11.2014)</name>
+      <url1>mms://a23.l2049658022.c20496.g.lm.akamaistream.net/D/23/20496/v0001/reflector:58022</url1>
+      <url2>mms://a649.l2049658648.c20496.g.lm.akamaistream.net/D/649/20496/v0001/reflector:58648</url2>
+      <url3>mms://a81.l2049658080.c20496.g.lm.akamaistream.net/D/81/20496/v0001/reflector:58080</url3>
+      <url4>mms://a701.l2049658700.c20496.g.lm.akamaistream.net/D/701/20496/v0001/reflector:58700</url4>
+    </encoder>
+    <encoder id="109">
+      <name>ENC600 - Live (11.2014)</name>
+      <url1>mms://a216.l2049656215.c20496.g.lm.akamaistream.net/D/216/20496/v0001/reflector:56215</url1>
+      <url2>mms://a935.l2049650934.c20496.g.lm.akamaistream.net/D/935/20496/v0001/reflector:50934</url2>
+      <url3>mms://a1265.l2049653264.c20496.g.lm.akamaistream.net/D/1265/20496/v0001/reflector:53264</url3>
+      <url4>mms://a1228.l2049653227.c20496.g.lm.akamaistream.net/D/1228/20496/v0001/reflector:53227</url4>
+    </encoder>
+    <encoder id="110">
+      <name>ENC600 - Backup (11.2014)</name>
+      <url1>mms://a1757.l2049649756.c20496.g.lm.akamaistream.net/D/1757/20496/v0001/reflector:49756</url1>
+      <url2>mms://a946.l2049650945.c20496.g.lm.akamaistream.net/D/946/20496/v0001/reflector:50945</url2>
+      <url3>mms://a1307.l2049653306.c20496.g.lm.akamaistream.net/D/1307/20496/v0001/reflector:53306</url3>
+      <url4>mms://a1231.l2049653230.c20496.g.lm.akamaistream.net/D/1231/20496/v0001/reflector:53230</url4>
+    </encoder>
+    <encoder id="111">
+      <name>ENC601 - Live</name>
+      <url1>mms://a1878.l2049631877.c20496.g.lm.akamaistream.net/D/1878/20496/v0001/reflector:31877</url1>
+      <url2>mms://a603.l2049640602.c20496.g.lm.akamaistream.net/D/603/20496/v0001/reflector:40602</url2>
+      <url3>mms://a673.l2049640672.c20496.g.lm.akamaistream.net/D/673/20496/v0001/reflector:40672</url3>
+      <url4>mms://a644.l2049640643.c20496.g.lm.akamaistream.net/D/644/20496/v0001/reflector:40643</url4>
+    </encoder>
+    <encoder id="112">
+      <name>ENC601 - Backup</name>
+      <url1>mms://a646.l2049640645.c20496.g.lm.akamaistream.net/D/646/20496/v0001/reflector:40645</url1>
+      <url2>mms://a1210.l2049639209.c20496.g.lm.akamaistream.net/D/1210/20496/v0001/reflector:39209</url2>
+      <url3>mms://a680.l2049640679.c20496.g.lm.akamaistream.net/D/680/20496/v0001/reflector:40679</url3>
+      <url4>mms://a647.l2049640646.c20496.g.lm.akamaistream.net/D/647/20496/v0001/reflector:40646</url4>
+    </encoder>
+    <encoder id="113">
+      <name>ENC602 - Live</name>
+      <url1>mms://a1338.l2049637337.c20496.g.lm.akamaistream.net/D/1338/20496/v0001/reflector:37337</url1>
+      <url2>mms://a1322.l2049637321.c20496.g.lm.akamaistream.net/D/1322/20496/v0001/reflector:37321</url2>
+      <url3>mms://a1764.l2049635763.c20496.g.lm.akamaistream.net/D/1764/20496/v0001/reflector:35763</url3>
+      <url4>mms://a1363.l2049637362.c20496.g.lm.akamaistream.net/D/1363/20496/v0001/reflector:37362</url4>
+    </encoder>
+    <encoder id="114">
+      <name>ENC602 - Backup</name>
+      <url1>mms://a1362.l2049637361.c20496.g.lm.akamaistream.net/D/1362/20496/v0001/reflector:37361</url1>
+      <url2>mms://a1336.l2049637335.c20496.g.lm.akamaistream.net/D/1336/20496/v0001/reflector:37335</url2>
+      <url3>mms://a1875.l2049631874.c20496.g.lm.akamaistream.net/D/1875/20496/v0001/reflector:31874</url3>
+      <url4>mms://a633.l2049640632.c20496.g.lm.akamaistream.net/D/633/20496/v0001/reflector:40632</url4>
+    </encoder>
+    <encoder id="115">
+      <name>ENC603 - Live (10.2014)</name>
+      <url1>mms://a604.l2049650603.c20496.g.lm.akamaistream.net/D/604/20496/v0001/reflector:50603</url1>
+      <url2>mms://a475.l2049652474.c20496.g.lm.akamaistream.net/D/475/20496/v0001/reflector:52474</url2>
+      <url3>mms://a1844.l2049655843.c20496.g.lm.akamaistream.net/D/1844/20496/v0001/reflector:55843</url3>
+      <url4>mms://a716.l2049654715.c20496.g.lm.akamaistream.net/D/716/20496/v0001/reflector:54715</url4>
+    </encoder>
+    <encoder id="116">
+      <name>ENC603 - Backup (10.2014)</name>
+      <url1>mms://a1978.l2049655977.c20496.g.lm.akamaistream.net/D/1978/20496/v0001/reflector:55977</url1>
+      <url2>mms://a501.l2049650500.c20496.g.lm.akamaistream.net/D/501/20496/v0001/reflector:50500</url2>
+      <url3>mms://a425.l2049658424.c20496.g.lm.akamaistream.net/D/425/20496/v0001/reflector:58424</url3>
+      <url4>mms://a225.l2049650224.c20496.g.lm.akamaistream.net/D/225/20496/v0001/reflector:50224</url4>
+    </encoder>
+    <encoder id="117">
+      <name>ENC604 - Live</name>
+      <url1>mms://a1947.l2049649946.c20496.g.lm.akamaistream.net/D/1947/20496/v0001/reflector:49946</url1>
+      <url2>mms://a1649.l2049655648.c20496.g.lm.akamaistream.net/D/1649/20496/v0001/reflector:55648</url2>
+      <url3>mms://a279.l2049652278.c20496.g.lm.akamaistream.net/D/279/20496/v0001/reflector:52278</url3>
+      <url4>mms://a1347.l2049651346.c20496.g.lm.akamaistream.net/D/1347/20496/v0001/reflector:51346</url4>
+    </encoder>
+    <encoder id="118">
+      <name>ENC604 - Backup</name>
+      <url1>mms://a1276.l2049651275.c20496.g.lm.akamaistream.net/D/1276/20496/v0001/reflector:51275</url1>
+      <url2>mms://a241.l2049656240.c20496.g.lm.akamaistream.net/D/241/20496/v0001/reflector:56240</url2>
+      <url3>mms://a1563.l2049655562.c20496.g.lm.akamaistream.net/D/1563/20496/v0001/reflector:55562</url3>
+      <url4>mms://a1454.l2049651453.c20496.g.lm.akamaistream.net/D/1454/20496/v0001/reflector:51453</url4>
+    </encoder>
+    <encoder id="119">
+      <name>ENC605 - Live</name>
+      <url1>mms://a1863.l2049641862.c20496.g.lm.akamaistream.net/D/1863/20496/v0001/reflector:41862</url1>
+      <url2>mms://a1825.l2049641824.c20496.g.lm.akamaistream.net/D/1825/20496/v0001/reflector:41824</url2>
+      <url3>mms://a1226.l2049637225.c20496.g.lm.akamaistream.net/D/1226/20496/v0001/reflector:37225</url3>
+      <url4>mms://a1898.l2049641897.c20496.g.lm.akamaistream.net/D/1898/20496/v0001/reflector:41897</url4>
+    </encoder>
+    <encoder id="120">
+      <name>ENC605 - Backup</name>
+      <url1>mms://a1894.l2049641893.c20496.g.lm.akamaistream.net/D/1894/20496/v0001/reflector:41893</url1>
+      <url2>mms://a1855.l2049641854.c20496.g.lm.akamaistream.net/D/1855/20496/v0001/reflector:41854</url2>
+      <url3>mms://a1818.l2049641817.c20496.g.lm.akamaistream.net/D/1818/20496/v0001/reflector:41817</url3>
+      <url4>mms://a1908.l2049641907.c20496.g.lm.akamaistream.net/D/1908/20496/v0001/reflector:41907</url4>
+    </encoder>
+    <encoder id="121">
+      <name>ENC606 - Live</name>
+      <url1>mms://a78.l2049658077.c20496.g.lm.akamaistream.net/D/78/20496/v0001/reflector:58077</url1>
+      <url2>mms://a1487.l2049659486.c20496.g.lm.akamaistream.net/D/1487/20496/v0001/reflector:59486</url2>
+      <url3>mms://a1952.l2049655951.c20496.g.lm.akamaistream.net/D/1952/20496/v0001/reflector:55951</url3>
+      <url4>mms://a542.l2049650541.c20496.g.lm.akamaistream.net/D/542/20496/v0001/reflector:50541</url4>
+    </encoder>
+    <encoder id="122">
+      <name>ENC606 - Backup</name>
+      <url1>mms://a1988.l2049659987.c20496.g.lm.akamaistream.net/D/1988/20496/v0001/reflector:59987</url1>
+      <url2>mms://a1452.l2049657451.c20496.g.lm.akamaistream.net/D/1452/20496/v0001/reflector:57451</url2>
+      <url3>mms://a1790.l2049653789.c20496.g.lm.akamaistream.net/D/1790/20496/v0001/reflector:53789</url3>
+      <url4>mms://a1960.l2049649959.c20496.g.lm.akamaistream.net/D/1960/20496/v0001/reflector:49959</url4>
+    </encoder>
+    <encoder id="123">
+      <name>ENC607 - Live</name>
+      <url1>mms://a827.l2049654826.c20496.g.lm.akamaistream.net/D/827/20496/v0001/reflector:54826</url1>
+      <url2>mms://a850.l2049658849.c20496.g.lm.akamaistream.net/D/850/20496/v0001/reflector:58849</url2>
+      <url3>mms://a1660.l2049653659.c20496.g.lm.akamaistream.net/D/1660/20496/v0001/reflector:53659</url3>
+      <url4>mms://a1945.l2049657944.c20496.g.lm.akamaistream.net/D/1945/20496/v0001/reflector:57944</url4>
+    </encoder>
+    <encoder id="124">
+      <name>ENC607 - Backup</name>
+      <url1>mms://a1621.l2049653620.c20496.g.lm.akamaistream.net/D/1621/20496/v0001/reflector:53620</url1>
+      <url2>mms://a1106.l2049653105.c20496.g.lm.akamaistream.net/D/1106/20496/v0001/reflector:53105</url2>
+      <url3>mms://a515.l2049658514.c20496.g.lm.akamaistream.net/D/515/20496/v0001/reflector:58514</url3>
+      <url4>mms://a1558.l2049649557.c20496.g.lm.akamaistream.net/D/1558/20496/v0001/reflector:49557</url4>
+    </encoder>
+    <encoder id="125">
+      <name>ENC608 - Live</name>
+      <url1>mms://a1230.l2049651229.c20496.g.lm.akamaistream.net/D/1230/20496/v0001/reflector:51229</url1>
+      <url2>mms://a1830.l2049659829.c20496.g.lm.akamaistream.net/D/1830/20496/v0001/reflector:59829</url2>
+      <url3>mms://a17.l2049650016.c20496.g.lm.akamaistream.net/D/17/20496/v0001/reflector:50016</url3>
+      <url4>mms://a80.l2049654079.c20496.g.lm.akamaistream.net/D/80/20496/v0001/reflector:54079</url4>
+    </encoder>
+    <encoder id="126">
+      <name>ENC608 - Backup</name>
+      <url1>mms://a1254.l2049651253.c20496.g.lm.akamaistream.net/D/1254/20496/v0001/reflector:51253</url1>
+      <url2>mms://a980.l2049658979.c20496.g.lm.akamaistream.net/D/980/20496/v0001/reflector:58979</url2>
+      <url3>mms://a1501.l2049659500.c20496.g.lm.akamaistream.net/D/1501/20496/v0001/reflector:59500</url3>
+      <url4>mms://a1881.l2049653880.c20496.g.lm.akamaistream.net/D/1881/20496/v0001/reflector:53880</url4>
+    </encoder>
+    <encoder id="127">
+      <name>ENC609 - Live</name>
+      <url1>mms://a1802.l2049659801.c20496.g.lm.akamaistream.net/D/1802/20496/v0001/reflector:59801</url1>
+      <url2>mms://a286.l2049656285.c20496.g.lm.akamaistream.net/D/286/20496/v0001/reflector:56285</url2>
+      <url3>mms://a659.l2049658658.c20496.g.lm.akamaistream.net/D/659/20496/v0001/reflector:58658</url3>
+      <url4>mms://a793.l2049652792.c20496.g.lm.akamaistream.net/D/793/20496/v0001/reflector:52792</url4>
+    </encoder>
+    <encoder id="128">
+      <name>ENC609 - Backup</name>
+      <url1>mms://a681.l2049658680.c20496.g.lm.akamaistream.net/D/681/20496/v0001/reflector:58680</url1>
+      <url2>mms://a404.l2049654403.c20496.g.lm.akamaistream.net/D/404/20496/v0001/reflector:54403</url2>
+      <url3>mms://a1331.l2049649330.c20496.g.lm.akamaistream.net/D/1331/20496/v0001/reflector:49330</url3>
+      <url4>mms://a1179.l2049655178.c20496.g.lm.akamaistream.net/D/1179/20496/v0001/reflector:55178</url4>
+    </encoder>
+    <encoder id="129">
+      <name>ENC610 - Live</name>
+      <url1>mms://a1161.l2049621160.c20496.g.lm.akamaistream.net/D/1161/20496/v0001/reflector:21160</url1>
+      <url2>mms://a1247.l2049621246.c20496.g.lm.akamaistream.net/D/1247/20496/v0001/reflector:21246</url2>
+      <url3>mms://a1219.l2049621218.c20496.g.lm.akamaistream.net/D/1219/20496/v0001/reflector:21218</url3>
+      <url4>mms://a1370.l2049621369.c20496.g.lm.akamaistream.net/D/1370/20496/v0001/reflector:21369</url4>
+    </encoder>
+    <encoder id="130">
+      <name>ENC610 - Backup</name>
+      <url1>mms://a1172.l2049621171.c20496.g.lm.akamaistream.net/D/1172/20496/v0001/reflector:21171</url1>
+      <url2>mms://a1289.l2049621288.c20496.g.lm.akamaistream.net/D/1289/20496/v0001/reflector:21288</url2>
+      <url3>mms://a1220.l2049621219.c20496.g.lm.akamaistream.net/D/1220/20496/v0001/reflector:21219</url3>
+      <url4>mms://a1408.l2049621407.c20496.g.lm.akamaistream.net/D/1408/20496/v0001/reflector:21407</url4>
+    </encoder>
+    <encoder id="131">
+      <name>ENC611 - Live</name>
+      <url1>mms://a1905.l2049621904.c20496.g.lm.akamaistream.net/D/1905/20496/v0001/reflector:21904</url1>
+      <url2>mms://a1477.l2049621476.c20496.g.lm.akamaistream.net/D/1477/20496/v0001/reflector:21476</url2>
+      <url3>mms://a95.l2049622094.c20496.g.lm.akamaistream.net/D/95/20496/v0001/reflector:22094</url3>
+      <url4>mms://a36.l2049622035.c20496.g.lm.akamaistream.net/D/36/20496/v0001/reflector:22035</url4>
+    </encoder>
+    <encoder id="132">
+      <name>ENC611 - Backup</name>
+      <url1>mms://a1909.l2049621908.c20496.g.lm.akamaistream.net/D/1909/20496/v0001/reflector:21908</url1>
+      <url2>mms://a1874.l2049621873.c20496.g.lm.akamaistream.net/D/1874/20496/v0001/reflector:21873</url2>
+      <url3>mms://a765.l2049622764.c20496.g.lm.akamaistream.net/D/765/20496/v0001/reflector:22764</url3>
+      <url4>mms://a72.l2049622071.c20496.g.lm.akamaistream.net/D/72/20496/v0001/reflector:22071</url4>
+    </encoder>
+    <encoder id="133">
+      <name>ENC612 - Live</name>
+      <url1>mms://a541.l2049622540.c20496.g.lm.akamaistream.net/D/541/20496/v0001/reflector:22540</url1>
+      <url2>mms://a802.l2049622801.c20496.g.lm.akamaistream.net/D/802/20496/v0001/reflector:22801</url2>
+      <url3>mms://a1170.l2049623169.c20496.g.lm.akamaistream.net/D/1170/20496/v0001/reflector:23169</url3>
+      <url4>mms://a790.l2049622789.c20496.g.lm.akamaistream.net/D/790/20496/v0001/reflector:22789</url4>
+    </encoder>
+    <encoder id="134">
+      <name>ENC612 - Backup</name>
+      <url1>mms://a543.l2049622542.c20496.g.lm.akamaistream.net/D/543/20496/v0001/reflector:22542</url1>
+      <url2>mms://a539.l2049622538.c20496.g.lm.akamaistream.net/D/539/20496/v0001/reflector:22538</url2>
+      <url3>mms://a909.l2049622908.c20496.g.lm.akamaistream.net/D/909/20496/v0001/reflector:22908</url3>
+      <url4>mms://a801.l2049622800.c20496.g.lm.akamaistream.net/D/801/20496/v0001/reflector:22800</url4>
+    </encoder>
+    <encoder id="135">
+      <name>ENC613 - Live</name>
+      <url1>mms://a946.l2049622945.c20496.g.lm.akamaistream.net/D/946/20496/v0001/reflector:22945</url1>
+      <url2>mms://a1809.l2049623808.c20496.g.lm.akamaistream.net/D/1809/20496/v0001/reflector:23808</url2>
+      <url3>mms://a1.l2049624000.c20496.g.lm.akamaistream.net/D/1/20496/v0001/reflector:24000</url3>
+      <url4>mms://a1993.l2049623992.c20496.g.lm.akamaistream.net/D/1993/20496/v0001/reflector:23992</url4>
+    </encoder>
+    <encoder id="136">
+      <name>ENC613 - Backup</name>
+      <url1>mms://a949.l2049622948.c20496.g.lm.akamaistream.net/D/949/20496/v0001/reflector:22948</url1>
+      <url2>mms://a1860.l2049623859.c20496.g.lm.akamaistream.net/D/1860/20496/v0001/reflector:23859</url2>
+      <url3>mms://a1438.l2049623437.c20496.g.lm.akamaistream.net/D/1438/20496/v0001/reflector:23437</url3>
+      <url4>mms://a1994.l2049623993.c20496.g.lm.akamaistream.net/D/1994/20496/v0001/reflector:23993</url4>
+    </encoder>
+  </windowsMediaView>
+</root>

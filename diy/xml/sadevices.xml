@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sa>
+	<tandbergs>
+		<tandberg>
+			<id>1</id>
+			<name>Tandberg 1</name>
+			<ip>192.168.2.27</ip>
+			<dialin>+41 44 200 11 51</dialin>
+		</tandberg>
+		<tandberg>
+			<id>2</id>
+			<name>Tandberg 2</name>
+			<ip>192.168.2.28</ip>
+			<dialin>+41 44 200 11 52</dialin>
+		</tandberg>
+		<tandberg>
+			<id>3</id>
+			<name>Tandberg 3</name>
+			<ip>192.168.2.29</ip>
+			<dialin>+41 44 200 11 53</dialin>
+		</tandberg>
+		<tandberg>
+			<id>4</id>
+			<name>Tandberg 4</name>
+			<ip>192.168.2.30</ip>
+			<dialin>+41 44 200 11 54</dialin>
+		</tandberg>
+		<tandberg>
+			<ip>5</ip>
+			<name>Tandberg 5</name>
+			<ip>192.168.2.31</ip>
+			<dialin>+41 44 200 11 55</dialin>
+		</tandberg>
+		<tandberg>
+			<ip>6</ip>
+			<name>Tandberg 6</name>
+			<ip>193.109.49.73</ip>
+			<dialin>+41 44 200 11 56</dialin>
+		</tandberg>
+	</tandbergs>
+</sa>

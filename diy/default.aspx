@@ -1,0 +1,1 @@
+﻿<%@ Page validaterequest="false" Language="C#" Inherits="wtv.sa.admin.saPage" MasterPageFile="sa.master" %>

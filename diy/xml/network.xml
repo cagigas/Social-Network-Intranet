@@ -1,0 +1,320 @@
+<root nextid="57">
+  <entry id="2">
+    <EncoderName>Enc 101</EncoderName>
+    <HostName>enc101.unit.net</HostName>
+    <IP>193.109.49.96</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="3">
+    <EncoderName>Enc 102</EncoderName>
+    <HostName>enc102.unit.net</HostName>
+    <IP>193.109.49.97</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="4">
+    <EncoderName>Enc 103</EncoderName>
+    <HostName>enc103.unit.net</HostName>
+    <IP>193.109.49.98</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="5">
+    <EncoderName>Enc 104</EncoderName>
+    <HostName>enc104.unit.net</HostName>
+    <IP>193.109.49.99</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="6">
+    <EncoderName>Enc 105</EncoderName>
+    <HostName>enc105.unit.net</HostName>
+    <IP>193.109.49.100</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="7">
+    <EncoderName>Enc 106</EncoderName>
+    <HostName>enc106.unit.net</HostName>
+    <IP>193.109.49.101</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="8">
+    <EncoderName>Enc 107</EncoderName>
+    <HostName>enc107.unit.net</HostName>
+    <IP>193.109.49.102</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="9">
+    <EncoderName>Enc 108</EncoderName>
+    <HostName>enc108.unit.net</HostName>
+    <IP>193.109.49.103</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="10">
+    <EncoderName>Enc 300</EncoderName>
+    <HostName>enc300.unit.net</HostName>
+    <IP>193.109.49.109</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="11">
+    <EncoderName>Enc 301</EncoderName>
+    <HostName>enc301.unit.net</HostName>
+    <IP>193.109.49.110</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="12">
+    <EncoderName>Enc 302</EncoderName>
+    <HostName>enc302.unit.net</HostName>
+    <IP>193.109.49.111</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="13">
+    <EncoderName>Enc 303</EncoderName>
+    <HostName>enc303.unit.net</HostName>
+    <IP>193.109.49.112</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="14">
+    <EncoderName>Enc 304</EncoderName>
+    <HostName>enc304.unit.net</HostName>
+    <IP>193.109.49.113</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="15">
+    <EncoderName>Enc 305</EncoderName>
+    <HostName>enc305.unit.net</HostName>
+    <IP>193.109.49.114</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="16">
+    <EncoderName>Enc 400 Julius Bär Encoder</EncoderName>
+    <HostName>enc400.unit.net</HostName>
+    <IP>193.109.49.115</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="17">
+    <EncoderName>Enc 602</EncoderName>
+    <HostName>enc602.unit.net</HostName>
+    <IP>193.109.49.116</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="18">
+    <EncoderName>Enc 603</EncoderName>
+    <HostName>enc603.unit.net</HostName>
+    <IP>193.109.49.117</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="19">
+    <EncoderName>Enc 604</EncoderName>
+    <HostName>enc604.unit.net</HostName>
+    <IP>193.109.49.118</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="20">
+    <EncoderName>Enc 605</EncoderName>
+    <HostName>enc605.unit.net</HostName>
+    <IP>193.109.49.119</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="21">
+    <EncoderName>Enc 606</EncoderName>
+    <HostName>enc606.unit.net</HostName>
+    <IP>193.109.49.120</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="22">
+    <EncoderName>Enc 607</EncoderName>
+    <HostName>enc607.unit.net</HostName>
+    <IP>193.109.49.84</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="23">
+    <EncoderName>Enc 608</EncoderName>
+    <HostName>enc608.unit.net</HostName>
+    <IP>193.109.49.85</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="24">
+    <EncoderName>Synology DS 213j</EncoderName>
+    <HostName>DiskStation</HostName>
+    <IP>193.109.49.94</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="27">
+    <EncoderName>Enc 505</EncoderName>
+    <HostName>enc505.unit.net</HostName>
+    <IP>193.109.49.89</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="28">
+    <EncoderName>enc 506</EncoderName>
+    <HostName>enc506.unit.net</HostName>
+    <IP>193.109.49.91</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="29">
+    <EncoderName>Enc 507</EncoderName>
+    <HostName>enc507.unit.net</HostName>
+    <IP>193.109.49.92</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="32">
+    <EncoderName>Enc 510</EncoderName>
+    <HostName>enc510.unit.net</HostName>
+    <IP>193.109.49.95</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="33">
+    <EncoderName>Cutter 1</EncoderName>
+    <HostName>
+    </HostName>
+    <IP>193.109.49.121</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="34">
+    <EncoderName>Cutter 2</EncoderName>
+    <HostName>
+    </HostName>
+    <IP>193.109.49.122</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="35">
+    <EncoderName>Cutter 3</EncoderName>
+    <HostName>
+    </HostName>
+    <IP>193.109.49.123</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="36">
+    <EncoderName>Tandberg 1</EncoderName>
+    <HostName>
+    </HostName>
+    <IP>193.109.49.71</IP>
+    <ExternalInternal>Internal</ExternalInternal>
+  </entry>
+  <entry id="37">
+    <EncoderName>Tandberg 2</EncoderName>
+    <HostName>
+    </HostName>
+    <IP>193.109.49.72</IP>
+    <ExternalInternal>Internal</ExternalInternal>
+  </entry>
+  <entry id="38">
+    <EncoderName>Tandberg 3</EncoderName>
+    <HostName>
+    </HostName>
+    <IP>193.109.49.73</IP>
+    <ExternalInternal>Internal</ExternalInternal>
+  </entry>
+  <entry id="39">
+    <EncoderName>Tandberg 4</EncoderName>
+    <HostName>
+    </HostName>
+    <IP>193.109.49.74</IP>
+    <ExternalInternal>Internal</ExternalInternal>
+  </entry>
+  <entry id="40">
+    <EncoderName>Tandberg 5</EncoderName>
+    <HostName>
+    </HostName>
+    <IP>193.109.49.93</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="41">
+    <EncoderName>Tandberg 6</EncoderName>
+    <HostName>
+    </HostName>
+    <IP>193.109.49.76</IP>
+    <ExternalInternal>Internal</ExternalInternal>
+  </entry>
+  <entry id="42">
+    <EncoderName>Tandberg 7</EncoderName>
+    <HostName>
+    </HostName>
+    <IP>193.109.49.77</IP>
+    <ExternalInternal>Internal</ExternalInternal>
+  </entry>
+  <entry id="43">
+    <EncoderName>Tandberg 8</EncoderName>
+    <HostName>
+    </HostName>
+    <IP>193.109.49.90</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="44">
+    <EncoderName>Tandberg 9</EncoderName>
+    <HostName>
+    </HostName>
+    <IP>193.109.49.75</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="45">
+    <EncoderName>Tandberg 10</EncoderName>
+    <HostName>
+    </HostName>
+    <IP>193.109.49.125</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="46">
+    <EncoderName>Tandberg 11</EncoderName>
+    <HostName>
+    </HostName>
+    <IP>193.109.49.126</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="47">
+    <EncoderName>Tandberg 12</EncoderName>
+    <HostName>
+    </HostName>
+    <IP>193.109.49.79</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="48">
+    <EncoderName>Tandberg 13</EncoderName>
+    <HostName>
+    </HostName>
+    <IP>193.109.49.80</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="49">
+    <EncoderName>Enc 601</EncoderName>
+    <HostName>enc601.unit.net</HostName>
+    <IP>193.109.49.104</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="50">
+    <EncoderName>Tandberg 14</EncoderName>
+    <HostName>
+    </HostName>
+    <IP>193.109.49.82</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="51">
+    <EncoderName>anew DNS</EncoderName>
+    <HostName>154.15.254.138</HostName>
+    <IP>154.15.254.134</IP>
+    <ExternalInternal>
+    </ExternalInternal>
+  </entry>
+  <entry id="53">
+    <EncoderName>Enc 600</EncoderName>
+    <HostName>enc600.unit.net</HostName>
+    <IP>193.109.49.105</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="54">
+    <EncoderName>Enc 609</EncoderName>
+    <HostName>enc609.unit.net</HostName>
+    <IP>193.109.49.86</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="55">
+    <EncoderName>Enc 610</EncoderName>
+    <HostName>enc610.unit.net</HostName>
+    <IP>193.109.49.87</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+  <entry id="56">
+    <EncoderName>Enc 611</EncoderName>
+    <HostName>enc611.unit.net</HostName>
+    <IP>193.109.49.88</IP>
+    <ExternalInternal>External</ExternalInternal>
+  </entry>
+</root>
